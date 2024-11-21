@@ -1,61 +1,65 @@
-##  Hello, I'm Jaswanth Reddy Narala!
+##  Hello, I'm Deepthi Reddy Kallam!
 
-Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong background in cloud computing and data engineer. I have extensive experience working with technologies like Azure, SQL,PowerBi, Tableau, and more. Here's a little bit about me.
+Welcome to my GitHub profile! I'm a Innovative software engineer with experience in Java Spring Boot and Microservices architecture, skilled in developing scalable solutions. Proficient in Python, Java, ReactJS, and Node.js, with expertise in Machine Learning, predictive analytics, and data-driven projects. Master's in Computer Science candidate, passionate about creating impactful systems and enhancing user experiences.
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
-
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/deepthireddy246/deepthireddy246/blob/main/coding.gif" width="408" height="318"/>
   
 
 🛠️**Technical Skills**
 
-Programming Languages: Python, R, JavaScript, SQL, Object Oriented Programming 
-Web Technologies: HTML 
-Databases: MySQL 
-Development Tools & Environments: Visual Studio Code 
-Software Tools: Microsoft Word, Microsoft Excel 
-Operating Systems: Windows, Linux 
-Data Visualization Tools: Power BI, Tableau, Matplotlib, Seaborn  
-Statistical Analysis: Regression Analysis, Hypothesis Testing  
-Data Manipulation: Pandas, NumPy  
-Machine Learning: Scikit-Learn, Decision Trees, Random Forest, Clustering
+- Programming Languages: Python, Core Java, Kotlin, SQL
+- Web Technologies: HTML5, CSS3, Javascript, PHP
+- Frameworks: React, AJAX, Springboot, RESTful API
+- Databases: MySQL, RDBMS, PL/SQL, MongoDB 
+- Cloud Tools: AWS(S3, EMR, EC2, RDS, Lambda, Redshift, Glue)
+- Development Tools & Environments: Visual Studio Code, Jupyter, Netbeans, Eclipse, Sublime 
+- Software Tools: Microsoft Word, Microsoft Excel 
+- Version Controls & Methodologies: Git, Github, Agile/Scrum, Waterfall
+- Operating Systems: Windows, Linux, MacOS, Unix  
+
 
  📚**Education**
  
-Master’s Degree in Computer Science from University of Missouri at Kansas City
-Bachelor’s Degree in Computer Science and Engineering from Saveetha School of Engineering
+- Master’s Degree in Computer Science from University of Missouri at Kansas City
+- Bachelor’s Degree in Computer Science and Engineering from  J.N.T University
 
-**Certifications**
+**Publications**
 
-Completed Salesforce Trailhead certification.
+Published a research article on IJETER Journal on my Project - Predictive Analytics of India in Olympics using       Machine Learning Algorithms IJETER
 
 💼**Work Experience**
 
-Cognizant Technology Solutions Pvt. Ltd                                                                                                                                      Program Analyst                                                                                                                                
-Project Name: Pure ILI Claims Vantage         
+Tata Consultancy Services, India
 
-June 2022 – July 2023   
-Spearheaded the management of user accounts in Salesforce, ensuring optimal user access through robust profiles and 
-security settings, enhancing overall system integrity and user satisfaction. 
+Assistant Systems Engineer                                                                                                                                          
+
+Aug 2021 – Dec 2022   
+- Led development efforts in a critical project for Healthcare Service Corporation (HCSC), focusing on enhancing the healthcare and insurance framework to improve service efficiency and client satisfaction.
+- Conducted thorough analysis to identify areas for modification in existing programs, resulting in the targeted and strategic redevelopment of core system components.
+- Implemented efficient code changes, optimizing system performance and reliability, and ensuring seamless integration with existing infrastructure.
+- Developed and integrated robust features using Java Spring Boot, leveraging Microservices architecture to enhance system scalability and facilitate the deployment of new services.
+- Collaborated closely with cross-functional teams to align project objectives with business goals, ensuring timely and successful delivery of project milestones.
+
 
 🚀**Projects**
 
-**ECommerce Application**
+**Nine Men’s Morris**
 
-Description:Developed an e-commerce application featuring product management, shopping cart and checkout system, and payment gateway integration. Ensured a responsive design for optimal user experience across all devices.
-Technologies Used: ASP.NET Core MVC, Entity Framework Core and ASP.NET Core Identity
-Proud Feature: I'm proud of application's responsive design.
+Technologies Used: Python, OOPs, Pygame, Minimax, UI/UX Design, Pytest, Git/GitHub
 
-**Secure and Privacy-Preserving Smart Home System**                                                                                                                                                                                   
-Developed a smart home system utilizing differential privacy techniques, enhancing user data protection while minimizing 
-data exposure during processing. 
-Applied secure multi-party computation (MPC) protocols, achieving a 25% increase in security efficiency for shared data 
-operations across devices. 
-Engineered privacy-preserving algorithms to anonymize sensitive information, resulting reduction in potential data breaches 
-within the system. 
-Conducted rigorous testing and optimization, leading to a 50% improvement in response time for user requests while maintaining high levels of data confidentiality.
+Description:
+- Designed and implemented algorithms for game mechanics, including piece movement, mill detection, and AI opponent behavior. Utilized object-oriented principles to create modular and maintainable codebase, facilitating future enhancements and bug fixes.
+- Applied analytical skills and strategic thinking to develop AI algorithms for gameplay, contributing to the creation of challenging and engaging opponents. Actively participated in implementing various game features, such as move validation, player interaction, and game state management, to deliver a polished and enjoyable gaming experience.
+
+
+**Predictive Analytics of India in Olympics using Machine Learning Algorithms**   
+
+Technologies Used: Python, KNN, Sci-kit learn, Flask, Numpy, Pandas, Matplotlib, Jupyter Notebook
+
+Description:
+- Orchestrated the Big Data Recruitment Project, leveraging advanced analytics to revolutionize recruitment processes by identifying key job families and roles, enhancing organizational understanding of data-driven objectives through comprehensive analysis of vast datasets to uncover patterns and trends.
+- Utilized sophisticate data analytics techniques to categorize highly valued skills and competencies within the job market, enabling targeted recruitment strategies and informed decision-making by defining job families according to required expertise levels.
+
 
 
 
