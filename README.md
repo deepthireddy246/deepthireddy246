@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm a Innovative software engineer with experience in Java Spring Boot and Microservices architecture, skilled in developing scalable solutions. Proficient in Python, Java, ReactJS, and Node.js, with expertise in Machine Learning, predictive analytics, and data-driven projects. Master's in Computer Science candidate, passionate about creating impactful systems and enhancing user experiences.
 
-<img src="https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img src="https://github.com/deepthireddy246/deepthireddy246/blob/main/Deepthi%20Reddy%20Kallam.png" alt="banner ">
 
 <img align="right" alt="GIF" src="https://github.com/deepthireddy246/deepthireddy246/blob/main/coding.gif" width="408" height="318"/>
   
