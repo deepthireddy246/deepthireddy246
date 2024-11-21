@@ -64,7 +64,7 @@ Description:
 - Utilized sophisticate data analytics techniques to categorize highly valued skills and competencies within the job market, enabling targeted recruitment strategies and informed decision-making by defining job families according to required expertise levels.
 
 
-# 🌐 Socials:
+ **🌐 Socials**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepthi-reddy-kallam-770993188/) 
 
