@@ -10,15 +10,16 @@ Welcome to my GitHub profile! I'm a Innovative software engineer with experience
 
 🛠️**Technical Skills**
 
-- Programming Languages: Python, Core Java, Kotlin, SQL
-- Web Technologies: HTML5, CSS3, Javascript, PHP
-- Frameworks: React, AJAX, Springboot, RESTful API
-- Databases: MySQL, RDBMS, PL/SQL, MongoDB 
-- Cloud Tools: AWS(S3, EMR, EC2, RDS, Lambda, Redshift, Glue)
-- Development Tools & Environments: Visual Studio Code, Jupyter, Netbeans, Eclipse, Sublime 
-- Software Tools: Microsoft Word, Microsoft Excel 
-- Version Controls & Methodologies: Git, Github, Agile/Scrum, Waterfall
-- Operating Systems: Windows, Linux, MacOS, Unix  
+**Programming & Frameworks:** Java, Spring Boot, Spring MVC, Hibernate, JPA, Java EE, Microservices Architecture, RESTful APIs
+**Web Development & Frontend:** JavaScript, TypeScript, React.js, Angular, JSP, Servlets
+**Cloud & DevOps: **AWS (EC2, S3, Lambda, RDS), GCP (Cloud Functions, Firebase), Docker, Kubernetes, Terraform, CI/CD 
+**Databases & Data Management:** MySQL, PostgreSQL, Oracle, MongoDB, Redis, JDBC, JPA, Hibernate Query Language (HQL) 
+**Software Development & Tools:** Git, GitHub, GitLab, Maven, Gradle, IntelliJ IDEA, Eclipse, VS Code
+**Security & API Management:** OAuth2, JWT, Role-Based Access Control (RBAC), API Gateway, Postman, Swagger 
+**Testing & Performance Optimization:** JUnit, Mockito, Selenium, Load Testing, Memory Profiling, JVM Optimization 
+**Agile & Collaboration:** Agile (Scrum/Kanban), JIRA, Confluence, Code Reviews, Peer Programming
+![image](https://github.com/user-attachments/assets/afb0fc64-9b9d-4487-b1da-73c3902caeea)
+
 
 
  📚**Education**
