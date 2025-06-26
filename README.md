@@ -55,12 +55,19 @@ Java Full Stack Developer
 Java Full Stack Developer
 
 •	Constructed, deployed, maintained, and upgraded enterprise-grade web applications using Angular, Spring Boot, and Hibernate, improving frontend efficiency by 50%, enhancing code reusability, and optimizing UI rendering for a seamless experience.
+
 •	Optimized, restructured, enhanced, and reengineered reusable frontend components using Angular, RxJS, and NgRx, increasing page load speeds by 47%, improving modularity, and enhancing real-time interactions with UI elements.
+
 •	Engineered, configured, deployed, and extended high-performance RESTful APIs with Spring WebFlux, gRPC, and Redis caching, reducing API response latency by 43%, improving data exchange performance, and supporting complex transaction workflows.
+
 •	Upgraded, migrated, secured, and modernized legacy monolithic applications by transitioning workloads to AWS ECS, RDS, and CloudFront, lowering hosting expenses by 35%, improving failover mechanisms, and enabling responsive resource scaling.
+
 •	Refined, optimized, scaled, and improved relational and NoSQL database queries (MySQL, PostgreSQL, Cassandra) using partitioning, indexing, and caching mechanisms, achieving a 48% reduction in data retrieval times and increasing data accuracy.
+
 •	Created, tested, implemented, and automated end-to-end test suites using JUnit, Selenium, and Cypress, reducing defect rates by 40%, increasing overall test coverage, and ensuring software stability across diverse environments.
+
 •	Deployed, monitored, maintained, and configured containerized applications using Docker, Helm, and Kubernetes, enabling horizontal scalability, better fault tolerance, and improved deployment reliability across distributed computing clusters.
+
 •	Led, streamlined, improved, and enhanced Agile development methodologies, including sprint planning, backlog refinement, and cross-team collaboration, achieving a 22% increase in project efficiency, reducing delays, and improving team productivity
 ![image](https://github.com/user-attachments/assets/e96dbeef-2e4b-4319-824c-8625a3a1db6a)
 
