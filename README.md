@@ -42,9 +42,13 @@ Java Full Stack Developer
 •	Engineered, deployed, secured, and monitored RESTful and GraphQL API endpoints with OAuth 2.0, JWT authentication, and API Gateway, strengthening data protection, improving API response efficiency by 50%, and reducing unauthorized access risks.
 
 •	Refactored, modernized, transitioned, and streamlined monolithic architectures into AWS Lambda, DynamoDB, and S3-based serverless solutions, decreasing infrastructure costs by 38%, improving auto-scaling capabilities, and boosting system efficiency.
+
 •	Redesigned, indexed, optimized, and fine-tuned relational and NoSQL databases (PostgreSQL, MongoDB) by implementing advanced partitioning, caching, and indexing strategies, reducing complex query response times by 52%, improving data integrity.
+
 •	Built, integrated, automated, and enhanced continuous integration and deployment pipelines using Jenkins, Docker, and Kubernetes, lowering release failures by 65%, increasing deployment efficiency, and minimizing rollback complexities.
+
 •	Implemented, fine-tuned, managed, and configured event-driven microservices using Apache Kafka, AWS SQS, and RabbitMQ, increasing throughput by 50%, reducing message-processing delays, and enabling scalable asynchronous event workflows.
+
 •	Secured, enforced, audited, and strengthened system-wide RBAC policies, AES-256 encryption, and multi-factor authentication, ensuring full compliance with financial industry security standards, reducing vulnerabilities, and mitigating security breaches.
 
 **Macro Software Solutions**	Jul 2020 – Dec 2022 | Hyderabad, India
