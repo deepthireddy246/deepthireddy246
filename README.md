@@ -36,8 +36,11 @@ Published a research article on IJETER Journal on my Project - Predictive Analyt
 Java Full Stack Developer
 
 •	Designed, architected, implemented, and optimized a large-scale microservices ecosystem using Spring Boot, React.js, GraphQL, and Docker, improving request handling speed by 55%, reducing downtime, and ensuring smooth system interoperability across cloud platforms.
+
 •	Developed, enhanced, maintained, and restructured highly responsive React.js, TypeScript, and Redux Toolkit applications, increasing UI rendering speed by 45%, improving accessibility across devices, and ensuring pixel-perfect front-end consistency.
+
 •	Engineered, deployed, secured, and monitored RESTful and GraphQL API endpoints with OAuth 2.0, JWT authentication, and API Gateway, strengthening data protection, improving API response efficiency by 50%, and reducing unauthorized access risks.
+
 •	Refactored, modernized, transitioned, and streamlined monolithic architectures into AWS Lambda, DynamoDB, and S3-based serverless solutions, decreasing infrastructure costs by 38%, improving auto-scaling capabilities, and boosting system efficiency.
 •	Redesigned, indexed, optimized, and fine-tuned relational and NoSQL databases (PostgreSQL, MongoDB) by implementing advanced partitioning, caching, and indexing strategies, reducing complex query response times by 52%, improving data integrity.
 •	Built, integrated, automated, and enhanced continuous integration and deployment pipelines using Jenkins, Docker, and Kubernetes, lowering release failures by 65%, increasing deployment efficiency, and minimizing rollback complexities.
