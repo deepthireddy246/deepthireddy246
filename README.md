@@ -32,16 +32,29 @@ Published a research article on IJETER Journal on my Project - Predictive Analyt
 
 💼**Work Experience**
 
-Tata Consultancy Services, India
+**Black Rock**	Jul 2024 – Present | Kansas City, Missouri
+Java Full Stack Developer
+•	Designed, architected, implemented, and optimized a large-scale microservices ecosystem using Spring Boot, React.js, GraphQL, and Docker, improving request handling speed by 55%, reducing downtime, and ensuring smooth system interoperability across cloud platforms.
+•	Developed, enhanced, maintained, and restructured highly responsive React.js, TypeScript, and Redux Toolkit applications, increasing UI rendering speed by 45%, improving accessibility across devices, and ensuring pixel-perfect front-end consistency.
+•	Engineered, deployed, secured, and monitored RESTful and GraphQL API endpoints with OAuth 2.0, JWT authentication, and API Gateway, strengthening data protection, improving API response efficiency by 50%, and reducing unauthorized access risks.
+•	Refactored, modernized, transitioned, and streamlined monolithic architectures into AWS Lambda, DynamoDB, and S3-based serverless solutions, decreasing infrastructure costs by 38%, improving auto-scaling capabilities, and boosting system efficiency.
+•	Redesigned, indexed, optimized, and fine-tuned relational and NoSQL databases (PostgreSQL, MongoDB) by implementing advanced partitioning, caching, and indexing strategies, reducing complex query response times by 52%, improving data integrity.
+•	Built, integrated, automated, and enhanced continuous integration and deployment pipelines using Jenkins, Docker, and Kubernetes, lowering release failures by 65%, increasing deployment efficiency, and minimizing rollback complexities.
+•	Implemented, fine-tuned, managed, and configured event-driven microservices using Apache Kafka, AWS SQS, and RabbitMQ, increasing throughput by 50%, reducing message-processing delays, and enabling scalable asynchronous event workflows.
+•	Secured, enforced, audited, and strengthened system-wide RBAC policies, AES-256 encryption, and multi-factor authentication, ensuring full compliance with financial industry security standards, reducing vulnerabilities, and mitigating security breaches.
 
-Assistant Systems Engineer                                                                                                                                          
+**Macro Software Solutions**	Jul 2020 – Dec 2022 | Hyderabad, India
+Java Full Stack Developer.
+•	Constructed, deployed, maintained, and upgraded enterprise-grade web applications using Angular, Spring Boot, and Hibernate, improving frontend efficiency by 50%, enhancing code reusability, and optimizing UI rendering for a seamless experience.
+•	Optimized, restructured, enhanced, and reengineered reusable frontend components using Angular, RxJS, and NgRx, increasing page load speeds by 47%, improving modularity, and enhancing real-time interactions with UI elements.
+•	Engineered, configured, deployed, and extended high-performance RESTful APIs with Spring WebFlux, gRPC, and Redis caching, reducing API response latency by 43%, improving data exchange performance, and supporting complex transaction workflows.
+•	Upgraded, migrated, secured, and modernized legacy monolithic applications by transitioning workloads to AWS ECS, RDS, and CloudFront, lowering hosting expenses by 35%, improving failover mechanisms, and enabling responsive resource scaling.
+•	Refined, optimized, scaled, and improved relational and NoSQL database queries (MySQL, PostgreSQL, Cassandra) using partitioning, indexing, and caching mechanisms, achieving a 48% reduction in data retrieval times and increasing data accuracy.
+•	Created, tested, implemented, and automated end-to-end test suites using JUnit, Selenium, and Cypress, reducing defect rates by 40%, increasing overall test coverage, and ensuring software stability across diverse environments.
+•	Deployed, monitored, maintained, and configured containerized applications using Docker, Helm, and Kubernetes, enabling horizontal scalability, better fault tolerance, and improved deployment reliability across distributed computing clusters.
+•	Led, streamlined, improved, and enhanced Agile development methodologies, including sprint planning, backlog refinement, and cross-team collaboration, achieving a 22% increase in project efficiency, reducing delays, and improving team productivity
+![image](https://github.com/user-attachments/assets/e96dbeef-2e4b-4319-824c-8625a3a1db6a)
 
-Aug 2021 – Dec 2022   
-- Led development efforts in a critical project for Healthcare Service Corporation (HCSC), focusing on enhancing the healthcare and insurance framework to improve service efficiency and client satisfaction.
-- Conducted thorough analysis to identify areas for modification in existing programs, resulting in the targeted and strategic redevelopment of core system components.
-- Implemented efficient code changes, optimizing system performance and reliability, and ensuring seamless integration with existing infrastructure.
-- Developed and integrated robust features using Java Spring Boot, leveraging Microservices architecture to enhance system scalability and facilitate the deployment of new services.
-- Collaborated closely with cross-functional teams to align project objectives with business goals, ensuring timely and successful delivery of project milestones.
 
 
 🚀**Projects**
