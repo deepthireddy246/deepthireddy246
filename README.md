@@ -3,7 +3,7 @@
 ##  Hello, I'm Deepthi Reddy Kallam!
 
 
-Welcome to my GitHub profile! I'm a Innovative software engineer with experience in Java Spring Boot and Microservices architecture, skilled in developing scalable solutions. Proficient in Python, Java, ReactJS, and Node.js, with expertise in Machine Learning, predictive analytics, and data-driven projects. Master's in Computer Science candidate, passionate about creating impactful systems and enhancing user experiences.
+Welcome to my GitHub profile! I’m a Full Stack Developer with four years of experience designing and delivering high-performance, scalable web and enterprise applications. On the backend, I build robust services with Java, Spring Boot/MVC and Hibernate, exposing them via REST and GraphQL APIs. On the frontend, I craft dynamic, responsive interfaces using React.js or Angular with TypeScript, Redux and Material-UI. I containerize and deploy microservices architectures with Docker, Kubernetes and CI/CD pipelines on Jenkins, AWS (EC2, S3, Lambda) and Azure DevOps. I optimize data layers through MySQL, PostgreSQL, MongoDB, Redis and Cassandra with indexing, partitioning and caching strategies, and ensure system resilience and security using Kafka/RabbitMQ messaging, OAuth2/JWT authentication and multi-threading. Feel free to explore my projects and reach out!
 
 <img align="right" alt="GIF" src="https://github.com/deepthireddy246/deepthireddy246/blob/main/coding.gif" width="408" height="318"/>
   
@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm a Innovative software engineer with experience
 **Testing & Performance Optimization:** JUnit, Mockito, Selenium, Load Testing, Memory Profiling, JVM Optimization 
 
 **Agile & Collaboration:** Agile (Scrum/Kanban), JIRA, Confluence, Code Reviews, Peer Programming
-
 
 
 
