@@ -77,7 +77,6 @@ Java Full Stack Developer
 •	Deployed, monitored, maintained, and configured containerized applications using Docker, Helm, and Kubernetes, enabling horizontal scalability, better fault tolerance, and improved deployment reliability across distributed computing clusters.
 
 •	Led, streamlined, improved, and enhanced Agile development methodologies, including sprint planning, backlog refinement, and cross-team collaboration, achieving a 22% increase in project efficiency, reducing delays, and improving team productivity
-![image](https://github.com/user-attachments/assets/e96dbeef-2e4b-4319-824c-8625a3a1db6a)
 
 
 
