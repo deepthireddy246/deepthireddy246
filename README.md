@@ -34,6 +34,7 @@ Published a research article on IJETER Journal on my Project - Predictive Analyt
 
 **Black Rock**	Jul 2024 – Present | Kansas City, Missouri
 Java Full Stack Developer
+
 •	Designed, architected, implemented, and optimized a large-scale microservices ecosystem using Spring Boot, React.js, GraphQL, and Docker, improving request handling speed by 55%, reducing downtime, and ensuring smooth system interoperability across cloud platforms.
 •	Developed, enhanced, maintained, and restructured highly responsive React.js, TypeScript, and Redux Toolkit applications, increasing UI rendering speed by 45%, improving accessibility across devices, and ensuring pixel-perfect front-end consistency.
 •	Engineered, deployed, secured, and monitored RESTful and GraphQL API endpoints with OAuth 2.0, JWT authentication, and API Gateway, strengthening data protection, improving API response efficiency by 50%, and reducing unauthorized access risks.
@@ -44,7 +45,8 @@ Java Full Stack Developer
 •	Secured, enforced, audited, and strengthened system-wide RBAC policies, AES-256 encryption, and multi-factor authentication, ensuring full compliance with financial industry security standards, reducing vulnerabilities, and mitigating security breaches.
 
 **Macro Software Solutions**	Jul 2020 – Dec 2022 | Hyderabad, India
-Java Full Stack Developer.
+Java Full Stack Developer
+
 •	Constructed, deployed, maintained, and upgraded enterprise-grade web applications using Angular, Spring Boot, and Hibernate, improving frontend efficiency by 50%, enhancing code reusability, and optimizing UI rendering for a seamless experience.
 •	Optimized, restructured, enhanced, and reengineered reusable frontend components using Angular, RxJS, and NgRx, increasing page load speeds by 47%, improving modularity, and enhancing real-time interactions with UI elements.
 •	Engineered, configured, deployed, and extended high-performance RESTful APIs with Spring WebFlux, gRPC, and Redis caching, reducing API response latency by 43%, improving data exchange performance, and supporting complex transaction workflows.
