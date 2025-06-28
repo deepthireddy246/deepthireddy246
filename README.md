@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://github.com/deepthireddy246/deepthireddy246/blob/main/coverphoto.png" alt="banner" width="300%">
+<p align="center" style="margin-bottom: -20px;">
+  <img src="https://github.com/deepthireddy246/deepthireddy246/blob/main/coverphoto.png" alt="banner" width="100%">
 </p>
+
+<h2 align="center">Hello, I'm Deepthi Reddy Kallam!</h2>
+
 **##  Hello, I'm Deepthi Reddy Kallam!**
 
 
