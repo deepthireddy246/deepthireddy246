@@ -1,6 +1,4 @@
-<img src="https://github.com/deepthireddy246/deepthireddy246/blob/main/coverphoto.png" alt="banner ">
-
-##  Hello, I'm Deepthi Reddy Kallam!
+<img src="https://github.com/deepthireddy246/deepthireddy246/blob/main/coverphoto.png" alt="banner "> ##  Hello, I'm Deepthi Reddy Kallam!
 
 
 Welcome to my GitHub profile! I’m a Full Stack Developer with four years of experience designing and delivering high-performance, scalable web and enterprise applications. On the backend, I build robust services with Java, Spring Boot/MVC and Hibernate, exposing them via REST and GraphQL APIs. On the frontend, I craft dynamic, responsive interfaces using React.js or Angular with TypeScript, Redux and Material-UI. I containerize and deploy microservices architectures with Docker, Kubernetes and CI/CD pipelines on Jenkins, AWS (EC2, S3, Lambda) and Azure DevOps. I optimize data layers through MySQL, PostgreSQL, MongoDB, Redis and Cassandra with indexing, partitioning and caching strategies, and ensure system resilience and security using Kafka/RabbitMQ messaging, OAuth2/JWT authentication and multi-threading. Feel free to explore my projects and reach out!
