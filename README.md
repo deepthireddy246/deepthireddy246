@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/deepthireddy246/deepthireddy246/blob/main/coverphoto.png" alt="banner" width="100%">
+  <img src="https://github.com/deepthireddy246/deepthireddy246/blob/main/coverphoto.png" alt="banner" width="300%">
 </p>
 **##  Hello, I'm Deepthi Reddy Kallam!**
 
