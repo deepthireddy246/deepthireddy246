@@ -77,27 +77,6 @@ Java Full Stack Developer
 •	Led, streamlined, improved, and enhanced Agile development methodologies, including sprint planning, backlog refinement, and cross-team collaboration, achieving a 22% increase in project efficiency, reducing delays, and improving team productivity
 
 
-
-🚀**Projects**
-
-**Nine Men’s Morris**
-
-Technologies Used: Python, OOPs, Pygame, Minimax, UI/UX Design, Pytest, Git/GitHub
-
-Description:
-- Designed and implemented algorithms for game mechanics, including piece movement, mill detection, and AI opponent behavior. Utilized object-oriented principles to create modular and maintainable codebase, facilitating future enhancements and bug fixes.
-- Applied analytical skills and strategic thinking to develop AI algorithms for gameplay, contributing to the creation of challenging and engaging opponents. Actively participated in implementing various game features, such as move validation, player interaction, and game state management, to deliver a polished and enjoyable gaming experience.
-
-
-**Predictive Analytics of India in Olympics using Machine Learning Algorithms**   
-
-Technologies Used: Python, KNN, Sci-kit learn, Flask, Numpy, Pandas, Matplotlib, Jupyter Notebook
-
-Description:
-- Orchestrated the Big Data Recruitment Project, leveraging advanced analytics to revolutionize recruitment processes by identifying key job families and roles, enhancing organizational understanding of data-driven objectives through comprehensive analysis of vast datasets to uncover patterns and trends.
-- Utilized sophisticate data analytics techniques to categorize highly valued skills and competencies within the job market, enabling targeted recruitment strategies and informed decision-making by defining job families according to required expertise levels.
-
-
  **🌐 Socials**
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepthi-reddy-kallam-b8b213357/)
