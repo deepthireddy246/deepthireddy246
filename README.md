@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I’m a Full Stack Developer with four years of ex
  📚**Education**
  
 - Master’s Degree in Computer Science from University of Missouri at Kansas City
-- Bachelor’s Degree in Computer Science and Engineering from  J.N.T University
+- Bachelor’s Degree in Information and Technology from  J.N.T University
 
 **Publications**
 
