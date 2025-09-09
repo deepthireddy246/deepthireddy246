@@ -38,7 +38,9 @@ Published a research article on IJETER Journal on my Project - Predictive Analyt
 
 💼**Work Experience**
 
-**Morgan stanley**                                                     Jun 2024 – Present | USA
+**Morgan stanley**                                                     
+Jun 2024 – Present | USA
+
 Software Engineer
 ● Developed and maintained enterprise-grade, server-side, and multi-tier applications using Java 8+, Java EE, Spring Boot, Spring Framework, and
 Hibernate, supporting 4+ mission-critical financial platforms, improving system uptime by 20% and reducing critical production errors.
@@ -57,7 +59,9 @@ recovery readiness, and uninterrupted access to trading and investment platforms
 ● Implemented and optimized CI/CD pipelines using Jenkins, GitLab, Maven, and Gradle, automating 80% of build, test, and deployment processes,
 reducing manual errors, and accelerating release cycles from monthly to bi-weekly while maintaining high-quality standards.
 
-**Accenture**                                                          Sept 2021 – Dec 2022 | India
+**Accenture**                                                          
+Sept 2021 – Dec 2022 | India
+
 Software Developer
 ● Developed and deployed cloud-based healthcare applications using Java, Spring Boot, Hibernate, and REST APIs, optimizing patient data retrieval
 speed by 35%, reducing wait times for critical reports, and enabling real-time access for doctors and hospital staff across multiple facilities.
@@ -76,7 +80,9 @@ features, increasing system uptime and availability to 99.8%, improving service 
 ● Designed and implemented data validation, logging, and monitoring strategies using ELK Stack, Prometheus, and Grafana across backend services,
 identifying anomalies efficiently, reducing downtime incidents, and ensuring consistent, high-quality delivery of healthcare services.
 
-**Dixon Technology**                                               Dec 2019 – Aug 2021| India
+**Dixon Technology**                                               
+Dec 2019 – Aug 2021| India
+
 Associate Software Engineer
 ● Developed and deployed full-stack retail applications using Node.js, React.js, and PostgreSQL, optimizing order processing workflows and reducing
 fulfillment time from 12 hours to 3 hours, improving overall operational efficiency and customer satisfaction for over 500 daily orders.
