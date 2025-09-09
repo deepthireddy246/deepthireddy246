@@ -1,4 +1,4 @@
-<img src="https://github.com/deepthireddy246/deepthireddy246/blob/main/cover.jpeg" alt="Banner" width="100%">
+
 
 <h2>Hello, I'm Deepthi Reddy Kallam!</h2>
 Welcome to my GitHub profile! I’m a Full Stack Developer with four years of experience designing and delivering high-performance, scalable web and enterprise applications. On the backend, I build robust services with Java, Spring Boot/MVC and Hibernate, exposing them via REST and GraphQL APIs. On the frontend, I craft dynamic, responsive interfaces using React.js or Angular with TypeScript, Redux and Material-UI. I containerize and deploy microservices architectures with Docker, Kubernetes and CI/CD pipelines on Jenkins, AWS (EC2, S3, Lambda) and Azure DevOps. I optimize data layers through MySQL, PostgreSQL, MongoDB, Redis and Cassandra with indexing, partitioning and caching strategies, and ensure system resilience and security using Kafka/RabbitMQ messaging, OAuth2/JWT authentication and multi-threading. Feel free to explore my projects and reach out!
@@ -38,43 +38,56 @@ Published a research article on IJETER Journal on my Project - Predictive Analyt
 
 💼**Work Experience**
 
-**Black Rock**	Jul 2024 – Present | Kansas City, Missouri
-Java Full Stack Developer
-
-•	Designed, architected, implemented, and optimized a large-scale microservices ecosystem using Spring Boot, React.js, GraphQL, and Docker, improving request handling speed by 55%, reducing downtime, and ensuring smooth system interoperability across cloud platforms.
-
-•	Developed, enhanced, maintained, and restructured highly responsive React.js, TypeScript, and Redux Toolkit applications, increasing UI rendering speed by 45%, improving accessibility across devices, and ensuring pixel-perfect front-end consistency.
-
-•	Engineered, deployed, secured, and monitored RESTful and GraphQL API endpoints with OAuth 2.0, JWT authentication, and API Gateway, strengthening data protection, improving API response efficiency by 50%, and reducing unauthorized access risks.
-
-•	Refactored, modernized, transitioned, and streamlined monolithic architectures into AWS Lambda, DynamoDB, and S3-based serverless solutions, decreasing infrastructure costs by 38%, improving auto-scaling capabilities, and boosting system efficiency.
-
-•	Redesigned, indexed, optimized, and fine-tuned relational and NoSQL databases (PostgreSQL, MongoDB) by implementing advanced partitioning, caching, and indexing strategies, reducing complex query response times by 52%, improving data integrity.
-
-•	Built, integrated, automated, and enhanced continuous integration and deployment pipelines using Jenkins, Docker, and Kubernetes, lowering release failures by 65%, increasing deployment efficiency, and minimizing rollback complexities.
-
-•	Implemented, fine-tuned, managed, and configured event-driven microservices using Apache Kafka, AWS SQS, and RabbitMQ, increasing throughput by 50%, reducing message-processing delays, and enabling scalable asynchronous event workflows.
-
-•	Secured, enforced, audited, and strengthened system-wide RBAC policies, AES-256 encryption, and multi-factor authentication, ensuring full compliance with financial industry security standards, reducing vulnerabilities, and mitigating security breaches.
-
-**Macro Software Solutions**	Jul 2020 – Dec 2022 | Hyderabad, India
-Java Full Stack Developer
-
-•	Constructed, deployed, maintained, and upgraded enterprise-grade web applications using Angular, Spring Boot, and Hibernate, improving frontend efficiency by 50%, enhancing code reusability, and optimizing UI rendering for a seamless experience.
-
-•	Optimized, restructured, enhanced, and reengineered reusable frontend components using Angular, RxJS, and NgRx, increasing page load speeds by 47%, improving modularity, and enhancing real-time interactions with UI elements.
-
-•	Engineered, configured, deployed, and extended high-performance RESTful APIs with Spring WebFlux, gRPC, and Redis caching, reducing API response latency by 43%, improving data exchange performance, and supporting complex transaction workflows.
-
-•	Upgraded, migrated, secured, and modernized legacy monolithic applications by transitioning workloads to AWS ECS, RDS, and CloudFront, lowering hosting expenses by 35%, improving failover mechanisms, and enabling responsive resource scaling.
-
-•	Refined, optimized, scaled, and improved relational and NoSQL database queries (MySQL, PostgreSQL, Cassandra) using partitioning, indexing, and caching mechanisms, achieving a 48% reduction in data retrieval times and increasing data accuracy.
-
-•	Created, tested, implemented, and automated end-to-end test suites using JUnit, Selenium, and Cypress, reducing defect rates by 40%, increasing overall test coverage, and ensuring software stability across diverse environments.
-
-•	Deployed, monitored, maintained, and configured containerized applications using Docker, Helm, and Kubernetes, enabling horizontal scalability, better fault tolerance, and improved deployment reliability across distributed computing clusters.
-
-•	Led, streamlined, improved, and enhanced Agile development methodologies, including sprint planning, backlog refinement, and cross-team collaboration, achieving a 22% increase in project efficiency, reducing delays, and improving team productivity
+**Morgan stanley**                                                     Jun 2024 – Present | USA
+Software Engineer
+● Developed and maintained enterprise-grade, server-side, and multi-tier applications using Java 8+, Java EE, Spring Boot, Spring Framework, and
+Hibernate, supporting 4+ mission-critical financial platforms, improving system uptime by 20% and reducing critical production errors.
+● Built RESTful and GraphQL APIs, microservices, and platform solutions integrating with upstream and downstream systems to support digital
+business automation, workflow management, and client servicing applications, accelerating client request processing by 30%.
+● Designed and implemented event-driven architectures leveraging Apache Kafka, JMS, MQ, and batch processing to enable real-time, low-latency data
+processing, cutting average processing time from 1.5s to 400ms and improving operational efficiency across trading systems.
+● Strengthened security, entitlements, and compliance across applications by implementing OAuth 2.0, JWT, SSO, encryption, and role-based access
+controls, reducing security incident reports by 40% and achieving full adherence to financial regulatory audits.
+● Enhanced system resiliency and performance by integrating cloud-native practices (AWS EC2, S3, Lambda, Azure), containerization (Docker, Kubernetes),
+and CI/CD automation using Jenkins, Maven, Gradle, reducing deployment time to 45 minutes while ensuring high reliability.
+● Drove architectural improvements through design reviews, code reviews, and knowledge-sharing sessions, fostering engineering best practices in
+TDD/BDD, system design, and performance optimization, increasing reusable component adoption by 50% across multiple teams.
+● Troubleshooted and resolved production issues, providing L2/L3 support under strict SLAs, ensuring 99.99% application availability, disaster
+recovery readiness, and uninterrupted access to trading and investment platforms.
+● Implemented and optimized CI/CD pipelines using Jenkins, GitLab, Maven, and Gradle, automating 80% of build, test, and deployment processes,
+reducing manual errors, and accelerating release cycles from monthly to bi-weekly while maintaining high-quality standards.
+**Accenture**                                                          Sept 2021 – Dec 2022 | India
+Software Developer
+● Developed and deployed cloud-based healthcare applications using Java, Spring Boot, Hibernate, and REST APIs, optimizing patient data retrieval
+speed by 35%, reducing wait times for critical reports, and enabling real-time access for doctors and hospital staff across multiple facilities.
+● Engineered real-time event-driven pipelines for lab results, medical device telemetry, and patient monitoring using Apache Kafka and JMS, cutting
+information update delays from hours to under 5 minutes, significantly improving response times for urgent care scenarios.
+● Built responsive clinician dashboards using React.js, Angular, and Tailwind CSS, improving workflow efficiency and accessibility, allowing secure
+access to patient records for over 2,000 users, and providing actionable insights for hospital administrators.
+● Automated CI/CD pipelines with Jenkins, Docker, GitLab, and Maven, reducing release cycles from 4 hours to 1 hour, minimizing deployment errors,
+and ensuring seamless delivery of updates to multiple healthcare applications simultaneously.
+● Integrated applications with EHR/EMR systems, PostgreSQL, MySQL, and third-party healthcare platforms via secure APIs, enhancing interoperability,
+reducing manual data entry by 30%, and improving overall operational accuracy and efficiency.
+● Implemented security and compliance frameworks including OAuth 2.0, JWT, RBAC, and encryption protocols, safeguarding sensitive patient
+information, ensuring HIPAA compliance, and reducing unauthorized access incidents by 40%.
+● Collaborated with global Agile/Scrum teams, conducted L2/L3 production support, troubleshot critical system issues, and optimized patient-facing
+features, increasing system uptime and availability to 99.8%, improving service continuity.
+● Designed and implemented data validation, logging, and monitoring strategies using ELK Stack, Prometheus, and Grafana across backend services,
+identifying anomalies efficiently, reducing downtime incidents, and ensuring consistent, high-quality delivery of healthcare services.
+**Dixon Technology**                                               Dec 2019 – Aug 2021| India
+Associate Software Engineer
+● Developed and deployed full-stack retail applications using Node.js, React.js, and PostgreSQL, optimizing order processing workflows and reducing
+fulfillment time from 12 hours to 3 hours, improving overall operational efficiency and customer satisfaction for over 500 daily orders.
+● Engineered real-time inventory tracking systems with Node.js, PostgreSQL, and Redis caching, enabling automatic low-stock alerts and ensuring
+consistent product availability across multiple store locations, preventing frequent stockouts and lost sales opportunities.
+● Implemented automated backend processes for order validation, payment reconciliation, and shipment tracking using Node.js and Express.js,
+reducing manual intervention and operational errors by 40%, while improving accuracy and reliability of daily retail operations.
+● Built interactive admin dashboards and analytics tools with Node.js, Chart.js, and SQL, providing actionable insights into sales trends, revenue
+performance, and regional store KPIs, which significantly improved managerial decision-making speed and strategic planning.
+● Integrated third-party payment gateways, shipping APIs, and loyalty programs using Node.js, ensuring secure, real-time transaction processing and
+automatic customer reward updates, enhancing user satisfaction, engagement, and repeat purchase behavior.
+● Conducted comprehensive unit testing, automated CI/CD deployment, and peer code reviews using Jest, Git, and GitHub Actions, improving code
+reliability, reducing production errors, and accelerating feature rollout timelines across high-traffic retail platforms.
 
 
  **🌐 Socials**
