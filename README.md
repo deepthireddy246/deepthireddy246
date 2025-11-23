@@ -1,28 +1,32 @@
 
 
 <h2>Hello, I'm Deepthi Reddy Kallam!</h2>
-Welcome to my GitHub profile! I’m a Full Stack Developer with four years of experience designing and delivering high-performance, scalable web and enterprise applications. On the backend, I build robust services with Java, Spring Boot/MVC and Hibernate, exposing them via REST and GraphQL APIs. On the frontend, I craft dynamic, responsive interfaces using React.js or Angular with TypeScript, Redux and Material-UI. I containerize and deploy microservices architectures with Docker, Kubernetes and CI/CD pipelines on Jenkins, AWS (EC2, S3, Lambda) and Azure DevOps. I optimize data layers through MySQL, PostgreSQL, MongoDB, Redis and Cassandra with indexing, partitioning and caching strategies, and ensure system resilience and security using Kafka/RabbitMQ messaging, OAuth2/JWT authentication and multi-threading. Feel free to explore my projects and reach out!
+Welcome to my GitHub profile! I’m a Software Engineer with 2 years of experience designing, developing, and deploying full-stack, cloud-native, and distributed applications. Expert in Java, Spring Boot, React.js, Angular, and microservices, with strong skills in event-driven architectures, real-time data processing, and secure enterprise platforms. Expert in leveraging AWS (EC2, S3, Lambda, RDS, API Gateway), Azure (App Services, SQL Database, Functions), Kubernetes, and Docker to build scalable, resilient, and high-performance systems. Expert in implementing authentication, authorization, and compliance-driven security frameworks (OAuth 2.0, JWT, encryption) and optimizing CI/CD pipelines and DevOps workflows to reduce release cycles by up to 50%. Strong collaborator with global teams, experienced in Agile/Scrum delivery and TDD/BDD practices, improving system efficiency, reliability, and user experience.<img width="468" height="160" alt="image" src="https://github.com/user-attachments/assets/88e467b5-99d5-48a3-8422-11f2ca53188f" />
+
 
 <img align="right" alt="GIF" src="https://github.com/deepthireddy246/deepthireddy246/blob/main/coding.gif" width="408" height="318"/>
   
 
 🛠️**Technical Skills**
 
-**Programming & Frameworks:** Java, Spring Boot, Spring MVC, Hibernate, JPA, Java EE, Microservices Architecture, RESTful APIs
+**Programming & Frameworks:** Java, Kotlin, Python, JavaScript, TypeScript, SQL, PL/SQL, Spring Boot, Spring MVC, J2EE, Hibernate, React.js, Angular, Node.js, GraphQL, Jetpack Compose, RxJava
 
 **Web Development & Frontend:** JavaScript, TypeScript, React.js, Angular, JSP, Servlets
 
 **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS), GCP (Cloud Functions, Firebase), Docker, Kubernetes, Terraform, CI/CD 
 
-**Databases & Data Management:** MySQL, PostgreSQL, Oracle, MongoDB, Redis, JDBC, JPA, Hibernate Query Language (HQL) 
+**Databases & Data Management:** MySQL, PostgreSQL, Oracle, MongoDB, Redis, JDBC, JPA
 
 **Software Development & Tools:** Git, GitHub, GitLab, Maven, Gradle, IntelliJ IDEA, Eclipse, VS Code
 
-**Security & API Management:** OAuth2, JWT, Role-Based Access Control (RBAC), API Gateway, Postman, Swagger 
+**Security & API Management:** OAuth 2.0, JWT, Secure API Integration, Encryption
 
-**Testing & Performance Optimization:** JUnit, Mockito, Selenium, Load Testing, Memory Profiling, JVM Optimization 
+**Testing & Performance Optimization:** JUnit, Mockito, Selenium, Jest, Postman, TDD, BDD
 
-**Agile & Collaboration:** Agile (Scrum/Kanban), JIRA, Confluence, Code Reviews, Peer Programming
+**Agile & Collaboration:** Agile, Scrum, SDLC, CI/CD, SRE Practices
+
+<img width="468" height="31" alt="image" src="https://github.com/user-attachments/assets/cf4e3ba5-2a97-4a28-b94e-655b30141bc5" />
+
 
 
 
