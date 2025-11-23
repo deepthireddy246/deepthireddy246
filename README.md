@@ -85,7 +85,7 @@ _Software Developer_
 
 **Publications**
 
-Published a research article on IJETER Journal on my Project - Predictive Analytics of India in Olympics using       Machine Learning Algorithms IJETER
+Published a research article on IJETER Journal on my Project - Predictive Analytics of India in Olympics using       Machine Learning Algorithms [IJETER](https://www.warse.org/IJETER/static/pdf/file/ijeter57852020.pdf)
 
 
  **🌐 Socials**
