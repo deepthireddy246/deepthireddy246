@@ -64,7 +64,7 @@ _Graduate Research Assistant_
 
 Aug 2021 – Dec 2022 
 
-_Software Developer _
+_Software Developer_
 
 ●	Developed and deployed cloud-based healthcare applications using Java, Spring Boot, Hibernate, and REST APIs, optimizing patient data retrieval speed by 35%, reducing wait times for critical reports, and enabling real-time access for doctors and hospital staff across multiple facilities.
 
