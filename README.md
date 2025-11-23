@@ -1,7 +1,7 @@
 
 
 <h2>Hello, I'm Deepthi Reddy Kallam!</h2>
-Welcome to my GitHub profile! I’m a Software Engineer with 2 years of experience designing, developing, and deploying full-stack, cloud-native, and distributed applications. Expert in Java, Spring Boot, React.js, Angular, and microservices, with strong skills in event-driven architectures, real-time data processing, and secure enterprise platforms. Expert in leveraging AWS (EC2, S3, Lambda, RDS, API Gateway), Azure (App Services, SQL Database, Functions), Kubernetes, and Docker to build scalable, resilient, and high-performance systems. Expert in implementing authentication, authorization, and compliance-driven security frameworks (OAuth 2.0, JWT, encryption) and optimizing CI/CD pipelines and DevOps workflows to reduce release cycles by up to 50%. Strong collaborator with global teams, experienced in Agile/Scrum delivery and TDD/BDD practices, improving system efficiency, reliability, and user experience.<img width="468" height="160" alt="image" src="https://github.com/user-attachments/assets/88e467b5-99d5-48a3-8422-11f2ca53188f" />
+Welcome to my GitHub profile! I’m a Software Engineer with 2 years of experience designing, developing, and deploying full-stack, cloud-native, and distributed applications. Expert in Java, Spring Boot, React.js, Angular, and microservices, with strong skills in event-driven architectures, real-time data processing, and secure enterprise platforms. Expert in leveraging AWS (EC2, S3, Lambda, RDS, API Gateway), Azure (App Services, SQL Database, Functions), Kubernetes, and Docker to build scalable, resilient, and high-performance systems. Expert in implementing authentication, authorization, and compliance-driven security frameworks (OAuth 2.0, JWT, encryption) and optimizing CI/CD pipelines and DevOps workflows to reduce release cycles by up to 50%. Strong collaborator with global teams, experienced in Agile/Scrum delivery and TDD/BDD practices, improving system efficiency, reliability, and user experience.
 
 
 <img align="right" alt="GIF" src="https://github.com/deepthireddy246/deepthireddy246/blob/main/coding.gif" width="408" height="318"/>
@@ -24,10 +24,6 @@ Welcome to my GitHub profile! I’m a Software Engineer with 2 years of experien
 **Testing & Performance Optimization:** JUnit, Mockito, Selenium, Jest, Postman, TDD, BDD
 
 **Agile & Collaboration:** Agile, Scrum, SDLC, CI/CD, SRE Practices
-
-<img width="468" height="31" alt="image" src="https://github.com/user-attachments/assets/cf4e3ba5-2a97-4a28-b94e-655b30141bc5" />
-
-
 
 
 
