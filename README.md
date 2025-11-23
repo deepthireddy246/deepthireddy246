@@ -38,7 +38,9 @@ Welcome to my GitHub profile! I’m a Software Engineer with 2 years of experien
 
 
 **University of Missouri-Kansas | Kansas City, MO, USA**
+
 Jan 2025 – Oct 2025 
+
 _Graduate Research Assistant_
 
 ●	Conducted literature review on lightweight CNN architectures and quantization techniques, and worked with the supervising professor to define the research scope and evaluation goals.
@@ -59,8 +61,11 @@ _Graduate Research Assistant_
 
 
 **Tata Consultancy Services | Hyderabad, Telangana**
+
 Aug 2021 – Dec 2022 
+
 _Software Developer _
+
 ●	Developed and deployed cloud-based healthcare applications using Java, Spring Boot, Hibernate, and REST APIs, optimizing patient data retrieval speed by 35%, reducing wait times for critical reports, and enabling real-time access for doctors and hospital staff across multiple facilities.
 
 ●	Engineered real-time event-driven pipelines for lab results, medical device telemetry, and patient monitoring using Apache Kafka and JMS, cutting information update delays from hours to under 5 minutes, significantly improving response times for urgent care scenarios.
