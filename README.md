@@ -90,6 +90,6 @@ Published a research article on IJETER Journal on my Project - Predictive Analyt
 
  **🌐 Socials**
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepthi-reddy-kallam-b8b213357/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepthi-reddy-k-ba57ba393/)
 
  
