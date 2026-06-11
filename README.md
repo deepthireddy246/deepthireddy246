@@ -37,11 +37,11 @@ Welcome to my GitHub profile! I’m a Software Engineer with 2 years of experien
 💼**Work Experience**
 
 
-**University of Missouri-Kansas | Kansas City, MO, USA**
+**Pyramid Consulting | Alpharetta, GA, USA**
 
-Jan 2025 – Oct 2025 
+Jan 2025 – Sept 2025 
 
-_Graduate Research Assistant_
+_Java Full Stack Developer_
 
 ●	Conducted literature review on lightweight CNN architectures and quantization techniques, and worked with the supervising professor to define the research scope and evaluation goals.
 
